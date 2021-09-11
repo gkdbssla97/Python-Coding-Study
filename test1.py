@@ -1,4 +1,4 @@
-# 큰수의법칙 1번
+# 큰 수의법칙 1번
 
 N, M, K = map(int, input().split())
 
