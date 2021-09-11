@@ -1,3 +1,5 @@
+# 큰수의법칙 1번
+
 N, M, K = map(int, input().split())
 
 memo = []
